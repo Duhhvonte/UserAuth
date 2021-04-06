@@ -26,4 +26,3 @@ For users to authenticate themselves on an application.
 ## Info / Questions
 
 - [Devonte Letts](https://github.com/spacedel)
-- 
